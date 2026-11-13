@@ -3,7 +3,7 @@ A silly mod that acts as a base for creating in-game sprites that react to what 
 - In-game sprite which can be animated during an idle state and other specific events, such as when the player begins their first run of the current game instance, finds a quality 4 item, or dies
 - Support for playing random or specific animations within a .anm2 file, or assigning multiple .anm2 files to the same event to be played at random
 - Sound effects that can play during certain events
-- Implementations that make it simple to create supported mods (check out the code of mod linked above to learn how to make one yourself!)
+- Implementations that make it simple to create supported mods (check out [the code of mod linked above](https://github.com/witherisafk/LazyMattCam) to learn how to make one yourself!)
 - Mod config menu settings, with their default values configurable by the supported mod
 
 **NOTE: this mod has been updated to restructure how sprites / sound effects are loaded! If you are using this mod to create a face cam, please see the change log for more details!**

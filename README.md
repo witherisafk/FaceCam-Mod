@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3828788794/">Check this mod out on the Steam Workshop!</a>
+  <a href="https://steamcommunity.com/workshop/filedetails/?id=3828788794/">Check this mod out on the Steam Workshop!</a>
 </p>
 
 ##
 
-A silly mod that acts as a base for creating in-game sprites that react to what Isaac does. Requires a supported mod [(such as this one!)](https://steamcommunity.com/sharedfiles/filedetails/?id=3828789219) in order to do anything observable, and [ReactionAPI](https://steamcommunity.com/workshop/filedetails/?id=3096181411) for reacting to certain events! The capabilities of this mod include:
+A silly mod that acts as a base for creating in-game sprites that react to what Isaac does. Requires a supported mod [(such as this one!)](https://steamcommunity.com/workshop/filedetails/?id=3828789219) in order to do anything observable, and [ReactionAPI](https://steamcommunity.com/workshop/filedetails/?id=3096181411) for reacting to certain events! The capabilities of this mod include:
 
 - In-game sprite which can be animated during an idle state and other specific events, such as when the player begins their first run of the current game instance, finds a quality 4 item, or dies
 - Support for playing random or specific animations within a .anm2 file, or assigning multiple .anm2 files to the same event to be played at random

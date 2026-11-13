@@ -1,4 +1,4 @@
-A silly mod that acts as a base for creating in-game sprites that react to what Isaac does. Requires a supported mod [(such as this one!)](https://steamcommunity.com/sharedfiles/filedetails/?id=3828789219) in order to do anything observable, and [ReactionAP](https://steamcommunity.com/sharedfiles/filedetails/?id=3828788794) for reacting to certain events! The capabilities of this mod include:
+A silly mod that acts as a base for creating in-game sprites that react to what Isaac does. Requires a supported mod [(such as this one!)](https://steamcommunity.com/sharedfiles/filedetails/?id=3828789219) in order to do anything observable, and [ReactionAPI](https://steamcommunity.com/sharedfiles/filedetails/?id=3828788794) for reacting to certain events! The capabilities of this mod include:
 
 - In-game sprite which can be animated during an idle state and other specific events, such as when the player begins their first run of the current game instance, finds a quality 4 item, or dies
 - Support for playing random or specific animations within a .anm2 file, or assigning multiple .anm2 files to the same event to be played at random
@@ -13,4 +13,4 @@ This mod is still in development as well, with various additional upcoming featu
 - Functionality for playing sound effects at random
 - Support for creating reactions (animations/sound effects) for more events, such as dying, encountering items as certain characters, picking up items of specific qualities when Isaac has curse of the blind, and more!
 
-If you have any suggestions or bugs to report for the mod, please leave a comment or contact me through Discord at **witherisafk**
+If you have any suggestions or bugs to report for the mod, please open a new issue, or contact me through Discord at **witherisafk**

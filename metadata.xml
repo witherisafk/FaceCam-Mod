@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>FaceCam Mod</name>
+    <directory>! facecam mod</directory>
+    <id>3828788794</id>
+    <description>A silly mod that acts as a base for creating in-game sprites that react to what Isaac does. Requires a supported mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3828789219](such as this one!)[/url] in order to do anything observable, and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3828788794]ReactionAPI[/url] for reacting to certain events! The capabilities of this mod include:
+
+[list]
+    [*] In-game sprite which can be animated during an idle state and other specific events, such as when the player begins their first run of the current game instance, finds a quality 4 item, or dies
+    [*] Support for playing random or specific animations within a .anm2 file, or assigning multiple .anm2 files to the same event to be played at random
+    [*] Sound effects that can play during certain events
+    [*] Implementations that make it simple to create supported mods (check out the code of mod linked above to learn how to make one yourself!)
+    [*] Mod config menu settings, with their default values configurable by the supported mod
+[/list]
+
+This mod is still in development as well, with various additional upcoming features planned, such as:
+
+[list]
+    [*] Functionality for playing sound effects at random
+    [*] Support for creating reactions (animations/sound effects) for more events, such as dying, encountering items as certain characters, picking up items of specific qualities when Isaac has curse of the blind, and more!
+[/list]
+
+If you have any suggestions or bugs to report for the mod, please leave a comment or contact me through Discord at [b]witherisafk[/b]</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+</metadata>
